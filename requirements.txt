@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib~=3.9.0
+scipy~=1.13.1
+scikit-learn~=1.5.1
+plotly
+dash
+dash_bootstrap_components
+dash_antd
